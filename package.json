@@ -1,0 +1,22 @@
+{
+  "name": "fullstack-npm-js-footer",
+  "version": "0.1.0",
+  "description": "Este modulo permite generar un pie de página dinámico generado para aplicaciones JS con un año y nombre actualizados",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AinhoaAlonso/fullstack-npm-js-footer.git"
+  },
+  "author": "Ainhoa Alonso <ainhoaalonso88@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AinhoaAlonso/fullstack-npm-js-footer/issues"
+  },
+  "homepage": "https://github.com/AinhoaAlonso/fullstack-npm-js-footer#readme",
+  "dependencies": {
+    "moment": "^2.30.1"
+  }
+}
